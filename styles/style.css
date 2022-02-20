@@ -1,0 +1,50 @@
+.background-wall {
+    background-color: #00539F;
+    min-height: 100vh;
+    padding-top: 80px;
+}
+
+.wrapper {
+    background-color: orange;
+    text-align: center;
+    max-width: 50%;
+    margin: 0 auto;
+    border: 5px solid black;
+    color: #00539F;
+    text-shadow: 2px 2px black;
+}
+
+.logo_img {
+    height: 300px;
+}
+
+.changeLogo ul{
+    text-align: center;
+    margin: 20px auto 0 auto;
+    max-width: 50%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 0 20px;
+}
+
+.changeLogo button {
+    height: 50px;
+    background-color: rgb(48, 48, 48);
+    color: white;
+    padding-top: 4px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: 200px;
+}
+
+#changeUser {
+    font-weight: bold;
+    margin: 20px 0 0 25%;
+    height: 30px;
+    width: 130px;
+    background-color: #afafaf;
+    border: 1px solid black;
+    border-radius: 4px;
+}
